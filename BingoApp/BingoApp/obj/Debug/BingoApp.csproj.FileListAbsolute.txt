@@ -1,0 +1,10 @@
+C:\Users\hinte\source\repos\BingoApp\BingoApp\bin\Debug\BingoApp.exe.config
+C:\Users\hinte\source\repos\BingoApp\BingoApp\bin\Debug\BingoApp.exe
+C:\Users\hinte\source\repos\BingoApp\BingoApp\bin\Debug\BingoApp.pdb
+C:\Users\hinte\source\repos\BingoApp\BingoApp\obj\Debug\BingoApp.csprojAssemblyReference.cache
+C:\Users\hinte\source\repos\BingoApp\BingoApp\obj\Debug\BingoApp.Form1.resources
+C:\Users\hinte\source\repos\BingoApp\BingoApp\obj\Debug\BingoApp.Properties.Resources.resources
+C:\Users\hinte\source\repos\BingoApp\BingoApp\obj\Debug\BingoApp.csproj.GenerateResource.cache
+C:\Users\hinte\source\repos\BingoApp\BingoApp\obj\Debug\BingoApp.csproj.CoreCompileInputs.cache
+C:\Users\hinte\source\repos\BingoApp\BingoApp\obj\Debug\BingoApp.exe
+C:\Users\hinte\source\repos\BingoApp\BingoApp\obj\Debug\BingoApp.pdb
